@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FregnaFrancesco
+- 👀 I’m interested in AI, in any form and shape
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on anything AI related
+- ⚡ Fun fact: I'm not an AI
